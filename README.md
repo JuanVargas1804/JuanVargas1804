@@ -1,4 +1,4 @@
-## Hola! Soy Juan Vargas - Backend Jr.
+## Hola! Soy Juan Vargas - Backend Jr. <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 ## 📌 Acerca de mí
 Ingeniero de Sistemas con sólida formación en programación y desarrollo de soluciones tecnológicas.  
