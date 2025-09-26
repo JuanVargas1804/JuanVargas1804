@@ -52,3 +52,11 @@ Artuseg LTDA - Bogotá, Colombia
 - 📧 [juanandresvg1804@gmail.com](mailto:juanandresvg1804@gmail.com)  
 - 🔗 [GitHub](https://github.com/JuanVargas1804)  
 - 🔗 [LinkedIn](http://www.linkedin.com/in/juanvargas1804)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanvargas1804&show_icons=true&locale=en&layout=compact" alt="juanvargas1804" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanvargas1804&show_icons=true&locale=en" alt="juanvargas1804" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanvargas1804&" alt="juanvargas1804" /></p>
+
