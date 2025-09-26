@@ -79,7 +79,4 @@ Artuseg LTDA - Bogotá, Colombia
   </tr>
 </table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanvargas1804&show_icons=true&locale=en" alt="juanvargas1804" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanvargas1804&" alt="juanvargas1804" /></p>
 
