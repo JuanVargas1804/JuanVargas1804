@@ -1,4 +1,4 @@
-# Currículum Vitae - Juan Vargas
+## Hola! Soy Juan Vargas - Backend Jr.
 
 ## 📌 Acerca de mí
 Ingeniero de Sistemas con sólida formación en programación y desarrollo de soluciones tecnológicas.  
