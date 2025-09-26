@@ -66,7 +66,6 @@ Artuseg LTDA - Bogotá, Colombia
 
 ## 📞 Contacto
 - 📍 Falcón - Coro, Venezuela  
-- 📱 +58 424-6123346  
 - 📧 [juanandresvg1804@gmail.com](mailto:juanandresvg1804@gmail.com)  
 - 🔗 [GitHub](https://github.com/JuanVargas1804)  
 - 🔗 [LinkedIn](http://www.linkedin.com/in/juanvargas1804)
