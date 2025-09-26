@@ -72,7 +72,12 @@ Artuseg LTDA - Bogotá, Colombia
 - 🔗 [LinkedIn](http://www.linkedin.com/in/juanvargas1804)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanvargas1804&show_icons=true&locale=en&layout=compact" alt="juanvargas1804" /></p>
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanvargas1804&show_icons=true&locale=en" alt="juanvargas1804" /></p>
 
